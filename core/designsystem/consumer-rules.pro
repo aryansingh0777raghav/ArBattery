@@ -1,0 +1,1 @@
+# Compose designsystem proguard rules

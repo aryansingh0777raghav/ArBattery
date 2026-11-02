@@ -1,0 +1,10 @@
+<resources>
+    <string name="widget_small_name">ArBattery Summary (2x2)</string>
+    <string name="widget_small_desc">Monitors primary device battery level</string>
+
+    <string name="widget_medium_name">ArBattery Devices (4x2)</string>
+    <string name="widget_medium_desc">Displays battery status for up to 3 devices</string>
+
+    <string name="widget_large_name">ArBattery Ecosystem (4x4)</string>
+    <string name="widget_large_desc">Comprehensive ecosystem battery dashboard</string>
+</resources>
